@@ -1,0 +1,22 @@
+﻿  Module7ProjectNH.cpp
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(372,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(515,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(516,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(521,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(522,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(525,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(526,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(536,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1523,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1524,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1530,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(818): warning C4715: 'UCreateMeshF': not all control paths return a value
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(944): warning C4715: 'UCreateMesh': not all control paths return a value
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1196): warning C4715: 'UCreateMesh2': not all control paths return a value
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1069): warning C4715: 'UCreateMeshB': not all control paths return a value
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1323): warning C4715: 'UCreateMesh2B': not all control paths return a value
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1412): warning C4715: 'UCreateMesh3': not all control paths return a value
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1502): warning C4715: 'UCreateMesh4': not all control paths return a value
+C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\Module7ProjectNH.cpp(1654): warning C4715: 'UCreateMesh5': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\Natha\Downloads\OpenGLSample\OpenGLSample\Debug\OpenGLSample.exe
